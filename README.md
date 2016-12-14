@@ -1,2 +1,2 @@
-# All-district-subject-bangladesh
-All district of Bangladesh and university subject data in json file
+# JSON DATA
+All district of Bangladesh and university subject data in json file.
